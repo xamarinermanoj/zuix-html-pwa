@@ -18,6 +18,11 @@ This template is built with just HTML, JavaScript and CSS so that it can be even
 
 ![LightHouse Report](https://zuixjs.github.io/zuix-html-pwa/images/lighthouse-report.png)
 
+### Reference Documentation Blog Post
+
+https://dev.to/genejams/ready-to-use-progressive-web-app-template--18o5
+
+
 ### Demo Website
 
 https://zuixjs.github.io/zuix-html-pwa
